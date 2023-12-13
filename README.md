@@ -56,13 +56,12 @@ print(solution)
 
 ## Output:
 
-```
 i)
 ![Alt text](<lu decomposition-1.png>)
 
 ii)
 ![Alt text](<solve lu decomposition-1.png>)
-```
+
 
 
 ## Result:
